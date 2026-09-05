@@ -29,9 +29,12 @@ docs/screenshots/dashboard.png
 docs/screenshots/library.png
 docs/screenshots/pdf-reader.png
 docs/screenshots/epub-reader.png
+docs/screenshots/stats.png
+docs/screenshots/settings.png
+
+
 ```
 
-Use this gallery after adding them:
 
 
 <p align="center">
@@ -41,6 +44,10 @@ Use this gallery after adding them:
 <p align="center">
   <img src="docs/screenshots/pdf-reader.png" width="48%" alt="ReadLocal PDF reader">
   <img src="docs/screenshots/epub-reader.png" width="48%" alt="ReadLocal EPUB reader">
+</p>
+<p align="center">
+  <img src="docs/screenshots/stats.png" width="48%" alt="ReadLocal PDF reader">
+  <img src="docs/screenshots/settings.png" width="48%" alt="ReadLocal EPUB reader">
 </p>
 
 
