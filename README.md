@@ -1,5 +1,4 @@
 # ReadLocal
-
 > A private, offline-first desktop library and reading companion for PDF and EPUB books.
 
 [![CI](https://github.com/salaudeenabdulkabir/ReadLocal/actions/workflows/ci.yml/badge.svg)](https://github.com/salaudeenabdulkabir/ReadLocal/actions/workflows/ci.yml)
@@ -212,4 +211,4 @@ Please do not commit copyrighted ebook files or personal library data.
 
 ## License
 
-No open-source license has been selected yet. Until one is added, copyright remains with the repository owner and reuse is not automatically granted.
+ReadLocal is available under the [MIT License](LICENSE).
