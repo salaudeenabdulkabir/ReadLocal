@@ -22,7 +22,6 @@ Most ebook tools concentrate on storing or displaying books. ReadLocal also help
 
 ## Screenshots
 
-Screenshots will be added as the interface is finalized. The README is ready for these files:
 
 ```text
 docs/screenshots/dashboard.png
@@ -46,7 +45,7 @@ docs/screenshots/settings.png
   <img src="docs/screenshots/epub-reader.png" width="48%" alt="ReadLocal EPUB reader">
 </p>
 <p align="center">
-  <img src="docs/screenshots/stats.png" width="48%" alt="ReadLocal PDF reader">
+  <img src="docs/screenshots/stats .png" width="48%" alt="ReadLocal PDF reader">
   <img src="docs/screenshots/settings.png" width="48%" alt="ReadLocal EPUB reader">
 </p>
 
