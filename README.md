@@ -33,7 +33,7 @@ docs/screenshots/epub-reader.png
 
 Use this gallery after adding them:
 
-```html
+
 <p align="center">
   <img src="docs/screenshots/dashboard.png" width="48%" alt="ReadLocal dashboard">
   <img src="docs/screenshots/library.png" width="48%" alt="ReadLocal library">
@@ -42,7 +42,7 @@ Use this gallery after adding them:
   <img src="docs/screenshots/pdf-reader.png" width="48%" alt="ReadLocal PDF reader">
   <img src="docs/screenshots/epub-reader.png" width="48%" alt="ReadLocal EPUB reader">
 </p>
-```
+
 
 ## Features
 
